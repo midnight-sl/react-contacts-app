@@ -1,0 +1,12 @@
+.user-info {
+  width: 50%;
+  margin: 0 auto;
+}
+h1 {
+  font-style: italic;
+  color: #3caafd;
+}
+input {
+  padding: 5px 10px;
+  margin: 10px;
+}
